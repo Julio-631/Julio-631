@@ -70,6 +70,10 @@ local:    Manaus · Amazonas · Brasil
 </td>
 <td width="50%" valign="top">
 
+**⚡ Kiro & Amazon Quick**
+- **Kiro** para desenvolvimento assistido por IA
+- **Amazon Quick** — dashboards e análise
+- Agentes, skills e fluxos automatizados
 
 </td>
 </tr>
