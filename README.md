@@ -21,7 +21,7 @@
 
 <p>
   <strong>Cloud &amp; Data Engineering</strong><br/>
-  <sub>Microsoft 365 &nbsp;·&nbsp; Power Platform &nbsp;·&nbsp; Copilot Studio &nbsp;·&nbsp; AWS</sub>
+  <sub>Microsoft 365 &nbsp;·&nbsp; Kiro &nbsp;·&nbsp; Quick &nbsp;·&nbsp; AWS</sub>
 </p>
 
 <!-- ── texto animado ── -->
@@ -70,10 +70,6 @@ local:    Manaus · Amazonas · Brasil
 </td>
 <td width="50%" valign="top">
 
-**📊 Dados & BI**
-- **Amazon Quick / QuickSight**
-- **SAP HANA**, modelagem e conectores
-- Observabilidade e controle de custos
 
 </td>
 </tr>
