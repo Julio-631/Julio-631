@@ -27,7 +27,7 @@
 <!-- ── texto animado ── -->
 <img
   src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1100&color=58A6FF&center=true&vCenter=true&width=640&lines=Automa%C3%A7%C3%A3o+e+governan%C3%A7a+em+nuvem;Microsoft+365+%E2%80%A2+Power+Platform+%E2%80%A2+Copilot+Studio;AWS+%E2%80%A2+Amazon+Quick+%E2%80%A2+Microsoft+Graph;Identidade%2C+federa%C3%A7%C3%A3o+e+observabilidade;Infra+como+c%C3%B3digo+com+PowerShell+e+Python"
-  alt="Automação e governança em nuvem; Microsoft 365, Power Platform e Copilot Studio; AWS, Amazon Quick e Microsoft Graph; identidade, federação e observabilidade; infraestrutura como código com PowerShell e Python"
+  alt="Automação e governança em nuvem; Microsoft 365, Power Platform e Amazon Quick; AWS, Amazon Quick e Amazon Kiro; identidade, federação e Escalabilidade; infraestrutura em nuvem"
 />
 
 <br/><br/>
