@@ -150,16 +150,9 @@ local:    Manaus · Amazonas · Brasil
 <br/>
 
 <img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=Julio-631&theme=github-compact&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true&radius=8"
-  width="98%"
-  alt="Gráfico de atividade de contribuições de Julio-631"
-/>
-
-<br/>
-
-<img
-  src="https://github-profile-trophy.vercel.app/?username=Julio-631&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8"
-  alt="Troféus do perfil GitHub de Julio-631"
+  src="https://streak-stats.demolab.com?user=Julio-631&theme=github-dark&background=0D1117&border=1F6FEB&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&hide_border=true&border_radius=10&locale=pt_BR"
+  height="170"
+  alt="Sequência de contribuições de Julio-631"
 />
 
 </div>
